@@ -1,6 +1,6 @@
 # ImageFromParticle
 Project created just for fun, using processing.
-It is a **cfg** file for options like:
+Its have a **cfg** file for options like:
 >***imagePath*** - path to image file (can also get image from url)
 >
 >***outputFolder*** - folder for saving window screenshot (press **SPACE** to take a photo)
@@ -17,7 +17,7 @@ Project site: https://processing.org/
 
 
 
-Проект создан чисто по фану, и использаванием processing.
+Проект создан чисто по фану, с использаванием processing.
 Присутствует **cfg** файл для настроек, таких как:
 >***imagePath*** - путь к изображению (в том числе и через интернет)
 >
