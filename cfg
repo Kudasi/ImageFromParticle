@@ -1,0 +1,6 @@
+{
+	imagePath: "C:\\Users\\User\\Pictures\\я.jpg";
+	resolutionDivisor: 4;
+	radiusMultiplier: 0.2;
+	blending: 15;
+}
